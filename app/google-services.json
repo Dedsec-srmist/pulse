@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "845235237208",
+    "project_id": "pulse-dedsec-f0d42",
+    "storage_bucket": "pulse-dedsec-f0d42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845235237208:android:699bff0d632ca2547ef52d",
+        "android_client_info": {
+          "package_name": "com.dedsec.pulse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCocO2GZu-wOlyr51_vY2aTgri47iEHzu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
