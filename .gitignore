@@ -12,7 +12,6 @@
 /captures
 .externalNativeBuild
 .cxx
-local.properties
 # Created by https://www.toptal.com/developers/gitignore/api/androidstudio,firebase,kotlin,java,git
 # Edit at https://www.toptal.com/developers/gitignore?templates=androidstudio,firebase,kotlin,java,git
 
